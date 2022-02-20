@@ -3,7 +3,7 @@ package checkUruudoshi;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ufuudoshiMain {
+public class uruudoshiMain {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
